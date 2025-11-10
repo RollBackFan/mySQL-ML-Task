@@ -1,0 +1,151 @@
+EEID,"Full Name","Job Title",Department,"Business Unit",Gender,Ethnicity,Age,"Hire Date","Annual Salary","Bonus %",Country,City,"Exit Date",PK,EmploymentRating,DaysOfAbsence,EducationLevel,CertificationsEarned
+E02572,"Luna Sanders",Director,Finance,"Speciality Products",Female,Caucasian,50,2006-10-26,"$163,099 ",0.2,"United States",Chicago,NULL,688,5,4,Bachelor's,2
+E01639,"Austin Vo","Sr. Analyst",Finance,Manufacturing,Male,Asian,55,1995-11-20,"$95,409 ",0,"United States",Phoenix,NULL,776,9,3,Bachelor's,4
+E01639,"Austin Vo","Sr. Analyst",Finance,Manufacturing,Male,Asian,55,1995-11-20,"$95,409 ",0,"United States",Phoenix,NULL,239,5,12,Bachelor's,0
+E04332,"Luke Martin",Analyst,Finance,Manufacturing,Male,Black,25,2020-05-16,"$41,336 ",0,"United States",Miami,2021-05-20,829,7,2,Bachelor's,2
+E04332,"Luke Martin",Analyst,Finance,Manufacturing,Male,Black,25,2020-05-16,"$41,336 ",0,"United States",Miami,2021-05-20,809,9,2,Bachelor's,3
+E03838,"Madeline Walker","Sr. Analyst",Finance,"Speciality Products",Female,Caucasian,34,2018-06-13,"$77,203 ",0,"United States",Chicago,NULL,43,6,15,Bachelor's,4
+E04239,"Everleigh Ng","Sr. Manger",Finance,"Research & Development",Female,,51,2021-06-10,"$146,742 ",0.1,China,Shanghai,NULL,518,6,7,Bachelor's,3
+E00163,"Bella Powell",Director,Finance,"Research & Development",Female,Black,65,2002-03-04,"$175,837 ",0.2,"United States",Phoenix,NULL,881,10,1,Master's,3
+E00402,"Dominic Guzman",Analyst,Finance,Manufacturing,Male,Latino,65,2004-05-16,"$55,499 ",0,Brazil,Manaus,NULL,811,9,2,Bachelor's,0
+E03247,"Caroline Jenkins",Analyst,Finance,"Research & Development",Female,Caucasian,27,2018-05-06,"$49,011 ",0,"United States",Chicago,NULL,405,10,10,Bachelor's,0
+E03247,"Caroline Jenkins",Analyst,Finance,"Research & Development",Female,Caucasian,27,2018-05-06,"$49,011 ",0,"United States",Chicago,NULL,1,7,16,Bachelor's,0
+E03824,"Penelope Coleman",Analyst,Finance,Corporate,Female,Black,36,2021-08-27,"$48,906 ",0,"United States",Miami,NULL,125,8,14,Master's,1
+E03824,"Penelope Coleman",Analyst,Finance,Corporate,Female,Black,36,2021-08-27,"$48,906 ",0,"United States",Miami,NULL,26,9,16,Master's,2
+E01499,"Jade Rojas",Director,Finance,"Speciality Products",Female,Latino,37,2019-01-28,"$165,927 ",0.2,"United States",Phoenix,NULL,547,10,7,Bachelor's,2
+E01499,"Jade Rojas",Director,Finance,"Speciality Products",Female,Latino,37,2019-01-28,"$165,927 ",0.2,"United States",Phoenix,NULL,522,10,7,Bachelor's,0
+E01499,"Jade Rojas",Director,Finance,"Speciality Products",Female,Latino,37,2019-01-28,"$165,927 ",0.2,"United States",Phoenix,NULL,362,6,10,Bachelor's,1
+E00254,"Samuel Morales","Analyst II",Finance,Corporate,Male,Latino,34,2015-06-27,"$57,008 ",0,"United States",Phoenix,NULL,244,6,12,Bachelor's,2
+E02166,"John Soto","Sr. Manger",Finance,Manufacturing,Male,Latino,60,2015-09-23,"$141,899 ",0.15,"United States",Phoenix,NULL,357,9,10,Bachelor's,3
+E02166,"John Soto","Sr. Manger",Finance,Manufacturing,Male,Latino,60,2015-09-23,"$141,899 ",0.15,"United States",Phoenix,NULL,249,7,12,PhD,2
+E00595,"Everly Chow","Sr. Manger",Finance,"Speciality Products",Female,Asian,33,2018-04-21,"$140,402 ",0.15,China,Beijing,NULL,47,9,15,Bachelor's,4
+E00972,"Amelia Salazar","Analyst II",Finance,Corporate,Female,Latino,26,2019-04-23,"$59,817 ",0,Brazil,"Sao Paulo",NULL,612,6,6,Master's,4
+E00972,"Amelia Salazar","Analyst II",Finance,Corporate,Female,Latino,26,2019-04-23,"$59,817 ",0,Brazil,"Sao Paulo",NULL,128,10,14,Bachelor's,2
+E04568,"Rylee Yu","Vice President",Finance,"Speciality Products",Female,Asian,54,2011-07-10,"$247,022 ",0.3,China,Beijing,NULL,358,6,10,Master's,2
+E03612,"Grayson Cooper","Sr. Manger",Finance,"Speciality Products",Male,Black,64,2013-06-29,"$159,571 ",0.1,"United States",Columbus,NULL,740,5,3,Bachelor's,0
+E00691,"Ezekiel Desai",Director,Finance,"Research & Development",Male,Asian,42,2003-01-15,"$166,599 ",0.26,"United States",Seattle,NULL,583,6,6,Master's,1
+E00691,"Ezekiel Desai",Director,Finance,"Research & Development",Male,Asian,42,2003-01-15,"$166,599 ",0.26,"United States",Seattle,NULL,315,10,11,PhD,3
+E04379,"Scarlett Rodriguez","Sr. Analyst",Finance,Manufacturing,Female,,60,2007-02-24,"$71,699 ",0,Brazil,Manaus,NULL,584,9,6,Master's,1
+E02872,"Liam Jung",Manager,Finance,Corporate,Male,Asian,39,2010-01-14,"$103,504 ",0.07,China,Chengdu,NULL,952,5,0,PhD,2
+E00417,"Athena Carrillo","Analyst II",Finance,"Speciality Products",Female,Latino,39,2006-04-06,"$71,531 ",0,"United States",Columbus,NULL,647,9,5,Bachelor's,1
+E00013,"Elena Vang",Analyst,Finance,Corporate,Female,Asian,52,2019-02-19,"$55,859 ",0,China,Beijing,NULL,497,6,8,Bachelor's,4
+E00013,"Elena Vang",Analyst,Finance,Corporate,Female,Asian,52,2019-02-19,"$55,859 ",0,China,Beijing,NULL,409,7,9,Bachelor's,3
+E01095,"Isla Lai","Vice President",Finance,Corporate,Female,Asian,37,2011-12-06,"$225,558 ",0.33,China,Shanghai,NULL,526,8,7,PhD,0
+E04449,"Miles Hsu","Analyst II",Finance,"Research & Development",Male,,,NULL,,,China,Chengdu,NULL,132,7,14,Master's,4
+E03907,"Camila Watson","Vice President",Finance,"Speciality Products",Female,Caucasian,32,2018-01-02,"$190,253 ",0.33,"United States",Austin,NULL,8,7,16,Master's,1
+E04130,"Elias Figueroa","Sr. Manger",Finance,Corporate,Male,Latino,45,2021-12-24,"$144,754 ",0.15,"United States",Phoenix,NULL,49,5,15,PhD,2
+E01546,"Maria Hong","Vice President",Finance,"Speciality Products",Female,Asian,43,2005-07-31,"$249,686 ",0.31,China,Chongqing,NULL,694,9,4,PhD,0
+E00941,"Sophie Ali",Analyst,Finance,Manufacturing,Female,Asian,55,2002-03-28,"$50,475 ",0,"United States",Columbus,NULL,182,10,13,Master's,0
+E00626,"Luna Simmons","Sr. Analyst",Finance,Corporate,Female,Caucasian,28,2020-09-04,"$95,045 ",0,"United States",Chicago,NULL,479,9,8,Bachelor's,3
+E03904,"Hunter Ortiz","Sr. Analyst",Finance,Corporate,Male,Latino,46,2013-01-20,"$86,061 ",0,Brazil,"Rio de Janerio",NULL,530,9,7,PhD,0
+E03864,"Ella Hunter",Analyst,Finance,Manufacturing,Female,Caucasian,51,2017-01-18,"$53,799 ",0,"United States",Columbus,NULL,531,9,7,Bachelor's,2
+E03252,"James Bui",Manager,Finance,Manufacturing,Male,Asian,64,1998-07-20,"$122,753 ",0.09,China,Chongqing,NULL,533,6,7,Bachelor's,2
+E01070,"Leonardo Martin",Manager,Finance,"Speciality Products",Male,Black,51,1995-02-16,"$125,375 ",0.09,"United States",Chicago,NULL,706,9,4,Bachelor's,2
+E01070,"Leonardo Martin",Manager,Finance,"Speciality Products",Male,Black,51,1995-02-16,"$125,375 ",0.09,"United States",Chicago,NULL,367,10,10,Bachelor's,2
+E02810,"Layla Torres","Sr. Manger",Finance,Manufacturing,Female,Latino,37,2013-02-24,"$157,474 ",0.11,Brazil,"Rio de Janerio",NULL,962,9,0,Bachelor's,4
+E00842,"John Vega","Vice President",Finance,Corporate,Male,Latino,50,2004-01-18,"$247,939 ",0.35,Brazil,"Rio de Janerio",NULL,825,9,2,Bachelor's,2
+E04103,"Isabella Soto","Vice President",Finance,Corporate,Female,Latino,27,2021-12-15,"$255,369 ",0.33,Brazil,"Sao Paulo",NULL,751,8,3,Bachelor's,3
+E00187,"Miles Mehta",Director,Finance,"Research & Development",Male,Asian,64,1996-05-02,"$189,933 ",0.23,"United States",Miami,NULL,258,10,12,Bachelor's,2
+E04136,"Mason Cao","Analyst II",Finance,Corporate,Male,Asian,52,2017-09-14,"$74,449 ",0,China,Beijing,NULL,419,7,9,Bachelor's,0
+E03096,"Kennedy Zhang",Director,Finance,"Research & Development",Female,Asian,63,2000-10-27,"$155,320 ",0.17,China,Chongqing,NULL,595,6,6,Master's,0
+E01896,"Adam Nelson",Director,Finance,"Speciality Products",Male,Caucasian,25,2020-01-14,"$168,014 ",0.27,"United States",Chicago,2021-07-27,755,9,3,Bachelor's,1
+E04037,"Roman Martinez","Sr. Manger",Finance,"Research & Development",Male,Latino,31,2015-09-19,"$145,846 ",0.15,Brazil,Manaus,NULL,896,8,1,PhD,4
+E04072,"Emery Mitchell","Vice President",Finance,Manufacturing,Female,Caucasian,48,2018-06-02,"$231,567 ",0.36,"United States",Seattle,NULL,421,6,9,Bachelor's,0
+E00501,"Melody Ho","Analyst II",Finance,"Research & Development",Female,Asian,55,2007-12-02,"$64,494 ",0,"United States",Columbus,NULL,61,5,15,Bachelor's,3
+E04601,"Allison Ayala",Analyst,Finance,Corporate,Female,Latino,36,2009-06-30,"$43,363 ",0,"United States",Austin,NULL,142,10,14,Master's,1
+E02147,"Allison Medina",Manager,Finance,"Speciality Products",Female,Latino,55,2010-04-29,"$111,038 ",0.05,Brazil,"Sao Paulo",NULL,758,5,3,Bachelor's,4
+E01977,"Raelynn Gupta","Sr. Manger",Finance,Corporate,Female,Asian,48,2001-09-10,"$125,730 ",0.11,China,Chongqing,NULL,263,6,12,PhD,1
+E00834,"Vivian Guzman","Analyst II",Finance,"Speciality Products",Female,Latino,53,2002-02-09,"$58,605 ",0,"United States",Phoenix,NULL,600,5,6,PhD,4
+E00399,"Connor Walker","Analyst II",Finance,Manufacturing,Male,Caucasian,30,2019-03-18,"$54,714 ",0,"United States",Columbus,NULL,902,5,1,Master's,2
+E01711,"Benjamin Ford","Analyst II",Finance,"Speciality Products",Male,Caucasian,31,2021-04-22,"$74,215 ",0,"United States",Phoenix,NULL,201,5,13,Master's,0
+E04749,"Caroline Phan","Sr. Manger",Finance,Corporate,Female,Asian,41,2004-03-14,"$155,004 ",0.12,"United States",Austin,NULL,371,5,10,Master's,3
+E02108,"Madeline Coleman","Sr. Manger",Finance,"Research & Development",Female,Caucasian,51,2006-04-28,"$150,758 ",0.13,"United States",Chicago,2007-08-16,324,8,11,Bachelor's,0
+E02769,"Riley Marquez","Sr. Manger",Finance,"Research & Development",Female,Latino,39,2019-10-18,"$122,829 ",0.11,"United States",Chicago,NULL,908,7,1,PhD,2
+E02769,"Riley Marquez","Sr. Manger",Finance,"Research & Development",Female,Latino,39,2019-10-18,"$122,829 ",0.11,"United States",Chicago,NULL,659,5,5,Bachelor's,4
+E01981,"Genesis Banks",Analyst,Finance,Corporate,Female,Caucasian,63,2012-03-16,"$46,081 ",0,"United States",Chicago,NULL,68,8,15,Bachelor's,3
+E04927,"Ezekiel Bryant","Sr. Analyst",Finance,Manufacturing,Male,Caucasian,55,2002-07-19,"$77,396 ",0,"United States",Miami,NULL,661,9,5,Bachelor's,0
+E03799,"Natalie Hwang","Sr. Analyst",Finance,"Speciality Products",Female,Asian,63,1999-12-31,"$89,523 ",0,"United States",Phoenix,NULL,203,7,13,Master's,4
+E02965,"Andrew Do","Sr. Manger",Finance,"Research & Development",Male,Asian,43,2021-04-17,"$146,140 ",0.15,"United States",Seattle,NULL,72,6,15,Bachelor's,3
+E02895,"Mila Soto",Director,Finance,"Research & Development",Female,Latino,65,2008-10-07,"$170,221 ",0.15,Brazil,Manaus,NULL,327,7,11,Bachelor's,1
+E03226,"Angel Stewart","Vice President",Finance,Corporate,Male,Caucasian,28,2019-06-22,"$250,767 ",0.38,"United States",Seattle,NULL,544,6,7,PhD,1
+E01845,"Leo Fernandez",Manager,Finance,"Research & Development",Male,Latino,54,1998-04-28,"$108,268 ",0.09,Brazil,"Sao Paulo",2004-05-15,77,8,15,Master's,1
+E04448,"Adrian Ruiz","Sr. Analyst",Finance,Corporate,Male,Latino,34,2014-09-04,"$95,499 ",0,Brazil,"Sao Paulo",2017-08-11,20,7,16,Bachelor's,4
+E01870,"Carson Chau",Director,Finance,Corporate,Male,Asian,58,2007-10-12,"$162,038 ",0.24,China,Chongqing,NULL,549,10,7,Master's,4
+E01870,"Carson Chau",Director,Finance,Corporate,Male,Asian,58,2007-10-12,"$162,038 ",0.24,China,Chongqing,NULL,206,9,13,Bachelor's,1
+E02604,"Brooklyn Collins","Sr. Manger",Finance,Corporate,Female,Black,59,2018-10-27,"$139,208 ",0.11,"United States",Austin,NULL,21,10,16,Bachelor's,1
+E01262,"Miles Mehta",Manager,Finance,Manufacturing,Male,Asian,50,2018-05-19,"$106,437 ",0.07,China,Chongqing,NULL,768,6,3,Master's,4
+E01075,"Joshua Juarez","Analyst II",Finance,Manufacturing,Male,Latino,46,2015-05-05,"$64,364 ",0,Brazil,"Sao Paulo",NULL,973,9,0,PhD,4
+E03720,"Genesis Hunter",Manager,Finance,Corporate,Female,Caucasian,48,1999-04-22,"$102,847 ",0.05,"United States",Chicago,NULL,812,8,2,Bachelor's,1
+E03720,"Genesis Hunter",Manager,Finance,Corporate,Female,Caucasian,48,1999-04-22,"$102,847 ",0.05,"United States",Chicago,NULL,707,9,4,Bachelor's,0
+E03393,"Henry Figueroa","Sr. Manger",Finance,Manufacturing,Male,Latino,46,2010-07-19,"$134,881 ",0.15,Brazil,Manaus,NULL,668,9,5,Bachelor's,4
+E00711,"Melody Chin","Sr. Manger",Finance,Corporate,Female,Asian,43,2006-10-15,"$153,492 ",0.11,"United States",Chicago,NULL,272,9,12,Bachelor's,2
+E01194,"Ella Jenkins","Analyst II",Finance,"Speciality Products",Female,Caucasian,52,2019-12-20,"$61,026 ",0,"United States",Phoenix,NULL,889,8,1,Bachelor's,3
+E01194,"Ella Jenkins","Analyst II",Finance,"Speciality Products",Female,Caucasian,52,2019-12-20,"$61,026 ",0,"United States",Phoenix,NULL,436,8,9,PhD,2
+E01668,"Naomi Xi",Director,Finance,Corporate,Female,Asian,53,2002-02-17,"$179,494 ",0.2,China,Chongqing,NULL,843,8,2,Master's,2
+E02088,"Skylar Ayala","Sr. Manger",Finance,Corporate,Female,Latino,55,2017-02-06,"$144,986 ",0.12,"United States",Phoenix,NULL,274,5,12,Bachelor's,2
+E00013,"Raelynn Ma","Sr. Analyst",Finance,"Speciality Products",Female,Asian,33,2015-10-08,"$94,876 ",0,"United States",Miami,NULL,497,6,8,Bachelor's,4
+E00013,"Raelynn Ma","Sr. Analyst",Finance,"Speciality Products",Female,Asian,33,2015-10-08,"$94,876 ",0,"United States",Miami,NULL,409,7,9,Bachelor's,3
+E02857,"Mason Jimenez","Sr. Manger",Finance,"Speciality Products",Male,Latino,44,2019-08-08,"$130,133 ",0.15,"United States",Austin,2022-05-18,384,6,10,Bachelor's,4
+E02857,"Mason Jimenez","Sr. Manger",Finance,"Speciality Products",Male,Latino,44,2019-08-08,"$130,133 ",0.15,"United States",Austin,2022-05-18,278,10,12,Bachelor's,2
+E02687,"Caroline Nelson","Vice President",Finance,Corporate,Female,Caucasian,36,2014-01-11,"$202,323 ",0.39,"United States",Chicago,NULL,774,10,3,Bachelor's,2
+E02748,"Genesis Zhu",Director,Finance,"Speciality Products",Female,Asian,34,2020-07-20,"$184,960 ",0.18,"United States",Seattle,NULL,439,5,9,Bachelor's,0
+E02706,"Lucy Figueroa","Sr. Manger",Finance,"Research & Development",Female,Latino,45,2016-01-10,"$149,761 ",0.12,"United States",Columbus,NULL,616,8,6,Bachelor's,3
+E02706,"Lucy Figueroa","Sr. Manger",Finance,"Research & Development",Female,Latino,45,2016-01-10,"$149,761 ",0.12,"United States",Columbus,NULL,5,7,16,Master's,2
+E02899,"Joshua Cortez","Sr. Manger",Finance,Corporate,Male,Latino,44,2007-08-11,"$126,277 ",0.13,Brazil,Manaus,NULL,441,8,9,Master's,0
+E01639,"Everleigh Simmons",Analyst,Finance,Manufacturing,Female,Caucasian,55,2021-04-16,"$48,266 ",0,"United States",Chicago,NULL,776,9,3,Bachelor's,4
+E01639,"Everleigh Simmons",Analyst,Finance,Manufacturing,Female,Caucasian,55,2021-04-16,"$48,266 ",0,"United States",Chicago,NULL,239,5,12,Bachelor's,0
+E03947,"Logan Soto","Vice President",Finance,"Research & Development",Male,Latino,36,2018-08-18,"$223,404 ",0.32,"United States",Columbus,NULL,846,6,2,Master's,0
+E02628,"Nora Nelson","Analyst II",Finance,Manufacturing,Female,Caucasian,41,2007-01-09,"$50,685 ",0,"United States",Columbus,NULL,442,9,9,Bachelor's,1
+E02665,"Bella Butler","Sr. Manger",Finance,Manufacturing,Female,Black,33,2019-10-25,"$131,652 ",0.11,"United States",Seattle,NULL,978,7,0,Bachelor's,4
+E00605,"Nova Williams",Manager,Finance,"Speciality Products",Female,Black,61,2010-04-25,"$110,302 ",0.06,"United States",Miami,NULL,444,7,9,Bachelor's,4
+E03694,"Elena Patterson","Vice President",Finance,"Speciality Products",Female,Black,38,2018-11-09,"$223,805 ",0.36,"United States",Chicago,NULL,848,8,2,Bachelor's,2
+E03694,"Elena Patterson","Vice President",Finance,"Speciality Products",Female,Black,38,2018-11-09,"$223,805 ",0.36,"United States",Chicago,NULL,561,7,7,Master's,4
+E03694,"Elena Patterson","Vice President",Finance,"Speciality Products",Female,Black,38,2018-11-09,"$223,805 ",0.36,"United States",Chicago,NULL,340,7,11,Bachelor's,1
+E04005,"Lincoln Wong","Sr. Analyst",Finance,Corporate,Male,Asian,49,2019-06-07,"$80,700 ",0,"United States",Columbus,NULL,284,7,12,Master's,3
+E03465,"Harper Phan","Analyst II",Finance,Manufacturing,Female,Asian,45,2016-12-07,"$71,454 ",0,China,Shanghai,NULL,445,10,9,Bachelor's,4
+E01006,"Autumn Leung","Vice President",Finance,"Research & Development",Female,Asian,25,2021-11-15,"$210,708 ",0.33,"United States",Chicago,NULL,556,7,7,Bachelor's,3
+E00091,"Emilia Chu","Analyst II",Finance,Manufacturing,Female,Asian,48,2003-06-24,"$55,760 ",0,"United States",Austin,NULL,981,7,0,Bachelor's,2
+E04221,"Roman King","Analyst II",Finance,Corporate,Male,Caucasian,60,2007-08-16,"$58,671 ",0,"United States",Columbus,NULL,501,9,8,Bachelor's,4
+E02249,"Allison Daniels",Manager,Finance,Manufacturing,Female,Caucasian,37,2020-04-14,"$103,524 ",0.09,"United States",Phoenix,NULL,446,9,9,PhD,1
+E01638,"Elizabeth Huang",Analyst,Finance,"Speciality Products",Female,Asian,62,2002-09-20,"$49,738 ",0,China,Beijing,NULL,964,7,0,Master's,3
+E01638,"Elizabeth Huang",Analyst,Finance,"Speciality Products",Female,Asian,62,2002-09-20,"$49,738 ",0,China,Beijing,NULL,224,6,13,Bachelor's,1
+E01193,"Raelynn Lu",Director,Finance,"Research & Development",Female,Asian,27,2020-05-26,"$153,628 ",0.29,China,Chongqing,2020-12-12,852,6,2,Bachelor's,2
+E00440,"Adeline Thao","Vice President",Finance,Corporate,Female,Asian,54,2007-09-05,"$183,239 ",0.32,"United States",Seattle,NULL,854,6,2,PhD,0
+E00440,"Adeline Thao","Vice President",Finance,Corporate,Female,Asian,54,2007-09-05,"$183,239 ",0.32,"United States",Seattle,NULL,523,7,7,PhD,4
+E00206,"Theodore Xi",Manager,Finance,Corporate,Male,Asian,52,2009-10-05,"$122,890 ",0.07,China,Shanghai,NULL,287,7,12,Master's,2
+E04088,"Ezra Liang","Vice President",Finance,"Research & Development",Male,Asian,52,1997-05-26,"$216,999 ",0.37,"United States",Miami,NULL,448,10,9,Bachelor's,4
+E02907,"Jose Singh","Sr. Manger",Finance,"Speciality Products",Male,Asian,44,2010-04-06,"$142,878 ",0.12,"United States",Columbus,NULL,31,8,16,Master's,4
+E02375,"Lincoln Huynh","Sr. Manger",Finance,Manufacturing,Male,Asian,63,2002-02-08,"$128,703 ",0.13,"United States",Austin,NULL,860,5,2,Bachelor's,3
+E00324,"Hailey Song",Manager,Finance,"Research & Development",Female,Asian,37,2016-08-23,"$124,928 ",0.06,China,Chongqing,NULL,567,9,7,Bachelor's,2
+E00518,"Lydia Morales",Manager,Finance,"Speciality Products",Female,Latino,51,2013-06-14,"$108,221 ",0.05,Brazil,Manaus,NULL,568,8,7,Bachelor's,3
+E02033,"Grace Sun",Director,Finance,"Research & Development",Female,Asian,25,2021-04-17,"$186,870 ",0.2,China,Shanghai,NULL,395,7,10,Bachelor's,0
+E01844,"Jayden Kang",Analyst,Finance,"Research & Development",Male,Asian,46,2011-04-24,"$55,894 ",0,"United States",Seattle,NULL,451,5,9,Bachelor's,1
+E02639,"Sebastian Le",Analyst,Finance,Corporate,Male,Asian,37,2015-11-09,"$45,369 ",0,China,Beijing,NULL,863,10,2,Master's,1
+E02639,"Sebastian Le",Analyst,Finance,Corporate,Male,Asian,37,2015-11-09,"$45,369 ",0,China,Beijing,NULL,414,6,9,Bachelor's,4
+E00287,"Luca Nelson",Manager,Finance,"Speciality Products",Male,Caucasian,60,2010-06-15,"$106,578 ",0.09,"United States",Miami,NULL,939,6,1,Bachelor's,0
+E00287,"Luca Nelson",Manager,Finance,"Speciality Products",Male,Caucasian,60,2010-06-15,"$106,578 ",0.09,"United States",Miami,NULL,784,5,3,Bachelor's,1
+E01947,"Sophie Owens","Analyst II",Finance,"Research & Development",Female,Caucasian,30,2015-03-05,"$52,697 ",0,"United States",Seattle,NULL,164,10,14,Bachelor's,2
+E02259,"Emily Lau","Sr. Analyst",Finance,Manufacturing,Female,Asian,35,2019-03-18,"$74,779 ",0,"United States",Phoenix,NULL,453,9,9,PhD,3
+E00342,"Wesley Doan",Manager,Finance,Corporate,Male,Asian,63,2004-04-19,"$122,487 ",0.08,China,Shanghai,NULL,293,6,12,PhD,1
+E01832,"Ezra Singh",Analyst,Finance,Manufacturing,Male,Asian,56,2006-05-10,"$41,561 ",0,"United States",Austin,NULL,993,6,0,Bachelor's,2
+E01755,"Audrey Patel","Sr. Manger",Finance,"Speciality Products",Female,Asian,37,2011-04-24,"$131,183 ",0.14,China,Shanghai,2016-03-16,929,6,1,Master's,2
+E03055,"Austin Rojas","Vice President",Finance,Corporate,Male,Latino,29,2018-12-05,"$199,504 ",0.3,"United States",Austin,NULL,931,8,1,Bachelor's,1
+E02968,"Caroline Santos","Analyst II",Finance,"Research & Development",Female,Latino,25,2020-07-12,"$56,565 ",0,Brazil,"Sao Paulo",NULL,933,5,1,Bachelor's,3
+E01337,"Andrew Coleman",Director,Finance,Corporate,Male,Caucasian,41,2019-05-15,"$174,415 ",0.23,"United States",Miami,NULL,350,5,11,Bachelor's,3
+E04035,"Hailey Lai","Sr. Manger",Finance,Manufacturing,Female,Asian,42,2011-03-18,"$150,034 ",0.12,China,Beijing,NULL,797,8,3,PhD,3
+E04035,"Hailey Lai","Sr. Manger",Finance,Manufacturing,Female,Asian,42,2011-03-18,"$150,034 ",0.12,China,Beijing,NULL,416,10,9,Bachelor's,1
+E00577,"Nora Nunez","Analyst II",Finance,"Research & Development",Female,Latino,45,2012-08-06,"$58,586 ",0,Brazil,"Sao Paulo",NULL,729,5,4,Bachelor's,3
+E00225,"Angel Delgado",Director,Finance,Corporate,Male,Latino,31,2017-08-10,"$156,931 ",0.28,"United States",Seattle,NULL,513,10,8,Bachelor's,3
+E03106,"Xavier Davis","Vice President",Finance,Corporate,Male,Caucasian,36,2009-01-17,"$238,236 ",0.31,"United States",Seattle,NULL,237,6,13,Master's,4
+E01350,"Natalie Carter",Director,Finance,Corporate,Female,Caucasian,64,2012-12-21,"$153,253 ",0.24,"United States",Austin,NULL,731,10,4,Bachelor's,3
+E03718,"Zoe Zhou",Manager,Finance,Corporate,Female,Asian,61,2009-10-06,"$103,096 ",0.07,China,Beijing,NULL,685,8,5,Master's,1
+E01338,"Jaxson Coleman",Manager,Finance,Manufacturing,Male,Caucasian,32,2020-04-15,"$126,671 ",0.09,"United States",Miami,NULL,38,6,16,PhD,4
+E02684,"Aaron Maldonado","Analyst II",Finance,Manufacturing,Male,Latino,39,2008-09-17,"$62,861 ",0,"United States",Seattle,NULL,632,10,6,Bachelor's,0
+E04415,"Leonardo Luong",Manager,Finance,Manufacturing,Male,Asian,52,1999-12-29,"$116,527 ",0.07,"United States",Phoenix,NULL,114,6,15,Bachelor's,2
+E04415,"Leonardo Luong",Manager,Finance,Manufacturing,Male,Asian,52,1999-12-29,"$116,527 ",0.07,"United States",Phoenix,NULL,96,10,15,Bachelor's,2
+E03349,"Dylan Chin",Director,Finance,Corporate,Male,Asian,60,2017-06-05,"$158,898 ",0.18,"United States",Miami,NULL,690,8,4,Bachelor's,1
+E03349,"Dylan Chin",Director,Finance,Corporate,Male,Asian,60,2017-06-05,"$158,898 ",0.18,"United States",Miami,NULL,576,5,7,Bachelor's,0
+E03349,"Dylan Chin",Director,Finance,Corporate,Male,Asian,60,2017-06-05,"$158,898 ",0.18,"United States",Miami,NULL,158,5,14,PhD,3
+E01909,"Lillian Khan",Analyst,Finance,"Speciality Products",female,Asian,44,2010-05-31,"$47,387 ",0,China,Chengdu,2018-01-08,641,10,6,PhD,3
+E02521,"Lily Nguyen","Sr. Analyst",Finance,"Speciality Products",Female,Asian,33,2012-01-28,"$95,960 ",0,China,Chengdu,NULL,806,7,3,Bachelor's,1
+E00250,"Kay Tu","Analyst II",Finance,"Research & Development",Female,Asian,30,1984,"$59120 ",0.4,"United States",Seattle,1998,1005,10,0,PhD,4
