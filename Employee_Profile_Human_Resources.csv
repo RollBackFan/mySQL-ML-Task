@@ -1,0 +1,151 @@
+EEID,"Full Name","Job Title",Department,"Business Unit",Gender,Ethnicity,Age,"Hire Date","Annual Salary","Bonus %",Country,City,"Exit Date",PK,EmploymentRating,DaysOfAbsence,EducationLevel,CertificationsEarned
+E00591,"Savannah Ali","Sr. Manger","Human Resources",Manufacturing,Female,Asian,36,2009-02-11,"$157,333 ",0.15,"United States",Miami,NULL,810,9,2,Bachelor's,0
+E00530,"Eli Jones",Manager,"Human Resources",Manufacturing,Male,Caucasian,59,1999-03-14,"$105,086 ",0.09,"United States",Austin,NULL,689,10,4,PhD,2
+E00530,"Eli Jones",Manager,"Human Resources",Manufacturing,Male,Caucasian,59,1999-03-14,"$105,086 ",0.09,"United States",Austin,NULL,554,6,7,Master's,0
+E02206,"Jose Henderson",Director,"Human Resources","Speciality Products",Male,Black,41,2015-04-17,"$152,239 ",0.23,"United States",Columbus,NULL,643,7,5,Master's,3
+E01754,"Owen Lam","Sr. Business Partner","Human Resources","Speciality Products",Male,Asian,30,2017-05-29,"$86,317 ",0,China,Chengdu,2017-07-16,305,10,11,Master's,2
+E04917,"Everleigh Washington","HRIS Analyst","Human Resources","Research & Development",Female,Caucasian,64,2001-10-20,"$64,057 ",0,"United States",Phoenix,NULL,174,9,13,Bachelor's,2
+E02112,"Christian Sanders","Vice President","Human Resources","Speciality Products",Male,Black,45,2013-08-07,"$236,946 ",0.37,"United States",Seattle,NULL,521,8,7,Bachelor's,3
+E00436,"Everly Walker","HRIS Analyst","Human Resources","Speciality Products",Female,Caucasian,41,2009-10-23,"$54,415 ",0,"United States",Seattle,2014-01-22,885,10,1,Bachelor's,4
+E00436,"Everly Walker","HRIS Analyst","Human Resources","Speciality Products",Female,Caucasian,41,2009-10-23,"$54,415 ",0,"United States",Seattle,2014-01-22,610,8,6,Bachelor's,4
+E01516,"Willow Mai","Business Partner","Human Resources",Manufacturing,Female,Asian,45,2003-12-17,"$48,345 ",0,China,Chengdu,NULL,887,10,1,Bachelor's,4
+E01234,"Jack Cheng",Director,"Human Resources",Manufacturing,Male,Asian,42,2014-01-16,"$152,214 ",0.3,China,Beijing,NULL,127,9,14,Bachelor's,3
+E02802,"Matthew Chau","Sr. Business Partner","Human Resources","Research & Development",Male,Asian,53,2002-11-16,,0,"United States",Seattle,NULL,4,7,16,Bachelor's,2
+E03816,"Leilani Chow",Director,"Human Resources",Corporate,Female,Asian,27,2021-02-23,"$199,041 ",0.16,China,Beijing,NULL,692,8,4,Bachelor's,2
+E02017,"Connor Joseph",Director,"Human Resources",Corporate,Male,Caucasian,50,NULL,,,,,NULL,246,9,12,Bachelor's,3
+E00128,"Everleigh Espinoza",Director,"Human Resources",Manufacturing,Female,Latino,54,2018-01-22,"$176,294 ",0.28,"United States",Austin,NULL,179,6,13,Bachelor's,0
+E03737,"Kennedy Rahman","Vice President","Human Resources",Manufacturing,Female,Asian,49,2003-02-28,"$211,291 ",0.37,China,Chongqing,NULL,956,6,0,Bachelor's,1
+E00130,"Paisley Kang","Vice President","Human Resources",Corporate,Female,Asian,61,2017-03-10,"$196,951 ",0.33,China,Beijing,NULL,527,6,7,Bachelor's,3
+E04682,"Colton Thao",Manager,"Human Resources",Manufacturing,Male,Asian,55,1995-11-16,"$125,936 ",0.08,China,Chongqing,NULL,131,9,14,Bachelor's,0
+E00431,"Skylar Doan","Sr. Business Partner","Human Resources","Research & Development",Female,Asian,58,1994-08-21,"$93,102 ",0,"United States",Seattle,2013-12-13,820,5,2,Bachelor's,3
+E00431,"Skylar Doan","Sr. Business Partner","Human Resources","Research & Development",Female,Asian,58,1994-08-21,"$93,102 ",0,"United States",Seattle,2013-12-13,645,10,5,Bachelor's,1
+E00672,"Mila Pena","Sr. Business Partner","Human Resources",Manufacturing,Female,Latino,45,2007-12-21,"$93,840 ",0,Brazil,Manaus,NULL,898,5,1,PhD,2
+E00672,"Mila Pena","Sr. Business Partner","Human Resources",Manufacturing,Female,Latino,45,2007-12-21,"$93,840 ",0,Brazil,Manaus,NULL,891,7,1,Bachelor's,3
+E03506,"Jaxson Mai","Vice President","Human Resources","Research & Development",Male,Asian,48,2014-03-08,"$197,367 ",0.39,"United States",Austin,NULL,586,5,6,Bachelor's,2
+E01584,"Carter Mejia","Sr. Manger","Human Resources","Research & Development",Male,Latino,29,2019-05-09,"$125,828 ",0.15,Brazil,"Sao Paulo",NULL,656,10,5,Master's,1
+E01584,"Carter Mejia","Sr. Manger","Human Resources","Research & Development",Male,Latino,29,2019-05-09,"$125,828 ",0.15,Brazil,"Sao Paulo",NULL,185,10,13,Bachelor's,0
+E02489,"Ethan Clark","Sr. Business Partner","Human Resources",Manufacturing,Male,Caucasian,33,2017-08-04,"$92,610 ",0,"United States",Columbus,NULL,186,6,13,Bachelor's,4
+E02761,"Luca Duong",Manager,"Human Resources","Research & Development",Male,Asian,48,2004-06-30,"$120,660 ",0.07,China,Chengdu,NULL,11,10,16,Bachelor's,4
+E01970,"Vivian Barnes",Director,"Human Resources","Research & Development",Female,Caucasian,51,2021-03-28,"$180,687 ",0.19,"United States",Phoenix,NULL,251,7,12,Bachelor's,1
+E04871,"Liam Grant","Sr. Business Partner","Human Resources","Research & Development",Male,Caucasian,30,2015-03-15,"$93,734 ",0,"United States",Phoenix,NULL,366,5,10,PhD,2
+E01687,"Luke Mai","HRIS Analyst","Human Resources","Research & Development",Male,Asian,41,2007-10-24,"$51,630 ",0,China,Beijing,NULL,750,9,3,Bachelor's,1
+E04167,"Henry Alvarez","Sr. Business Partner","Human Resources",Manufacturing,Male,Latino,48,2005-04-12,"$87,158 ",0,Brazil,Manaus,NULL,192,8,13,Bachelor's,0
+E00976,"Zoe Rodriguez",Director,"Human Resources","Speciality Products",Female,Latino,65,2004-05-23,"$153,938 ",0.2,"United States",Phoenix,NULL,481,10,8,Bachelor's,1
+E01412,"Eva Jenkins","Sr. Manger","Human Resources",Manufacturing,Female,Black,55,2004-11-10,"$142,318 ",0.14,"United States",Chicago,NULL,827,8,2,Bachelor's,0
+E04386,"Cameron Powell","Business Partner","Human Resources",Manufacturing,Male,Black,41,2004-08-20,"$49,186 ",0,"United States",Austin,2008-06-17,963,9,0,Master's,0
+E01232,"Samantha Foster","Vice President","Human Resources","Research & Development",Female,Black,34,2019-07-27,"$220,937 ",0.38,"United States",Austin,NULL,593,8,6,Bachelor's,4
+E02072,"Charles Robinson","HRIS Analyst","Human Resources","Speciality Products",Male,Caucasian,26,2021-03-12,"$70,369 ",0,"United States",Seattle,NULL,139,8,14,Bachelor's,3
+E00078,"Eva Garcia","HRIS Analyst","Human Resources",Corporate,Female,Latino,31,2021-04-11,"$72,235 ",0,Brazil,Manaus,NULL,193,6,13,Master's,3
+E02980,"Hailey Shin",Director,"Human Resources",Corporate,Female,Asian,57,2016-10-24,"$176,324 ",0.23,China,Shanghai,NULL,484,8,8,Bachelor's,4
+E04348,"Natalia Owens",Manager,"Human Resources",Manufacturing,Female,Caucasian,31,2021-01-18,"$104,162 ",0.07,"United States",Austin,NULL,57,9,15,Master's,2
+E03325,"Robert Edwards","HRIS Analyst","Human Resources",Corporate,Male,Caucasian,62,2004-10-11,"$50,825 ",0,"United States",Seattle,NULL,58,7,15,Bachelor's,1
+E01902,"Eleanor Li","Sr. Manger","Human Resources","Research & Development",Female,Asian,64,2003-12-07,"$125,807 ",0.15,"United States",Chicago,NULL,596,7,6,Bachelor's,4
+E02744,"Dylan Padilla","HRIS Analyst","Human Resources",Manufacturing,Male,Latino,31,2015-12-09,"$73,854 ",0,"United States",Seattle,NULL,538,7,7,Bachelor's,4
+E04029,"Jayden Jimenez",Manager,"Human Resources",Corporate,Male,Latino,46,2011-09-24,"$102,167 ",0.06,Brazil,"Rio de Janerio",NULL,653,6,5,Bachelor's,4
+E00311,"Scarlett Figueroa","Business Partner","Human Resources","Speciality Products",Female,Latino,34,2016-10-21,"$52,811 ",0,"United States",Miami,NULL,369,8,10,Bachelor's,2
+E03167,"Luke Zheng",Director,"Human Resources","Speciality Products",Male,Asian,39,2006-11-28,"$161,690 ",0.29,China,Beijing,NULL,319,8,11,Bachelor's,3
+E00432,"Eli Gupta",Director,"Human Resources","Research & Development",Male,Asian,37,2012-05-19,"$160,280 ",0.19,China,Beijing,NULL,833,5,2,Master's,3
+E03045,"Andrew Huynh","Business Partner","Human Resources","Speciality Products",Male,Asian,57,1997-04-28,"$54,051 ",0,"United States",Miami,1998-10-11,64,5,15,Bachelor's,1
+E04590,"Isaac Sanders","HRIS Analyst","Human Resources",Manufacturing,Male,Caucasian,49,2001-03-29,"$57,606 ",0,"United States",Miami,NULL,66,8,15,Bachelor's,1
+E04224,"Lucas Ramos","Sr. Business Partner","Human Resources","Speciality Products",Male,Latino,56,1998-01-21,"$72,303 ",0,"United States",Phoenix,NULL,965,9,0,Bachelor's,0
+E00207,"Hailey Lai","Vice President","Human Resources",Manufacturing,Female,Asian,52,2012-07-23,"$187,048 ",0.32,China,Chengdu,NULL,487,10,8,Bachelor's,4
+E04972,"Ivy Daniels","Sr. Manger","Human Resources","Speciality Products",Female,Caucasian,41,2008-10-26,"$131,841 ",0.13,"United States",Columbus,NULL,509,6,8,Bachelor's,0
+E04972,"Ivy Daniels","Sr. Manger","Human Resources","Speciality Products",Female,Caucasian,41,2008-10-26,"$131,841 ",0.13,"United States",Columbus,NULL,259,7,12,Bachelor's,0
+E04972,"Ivy Daniels","Sr. Manger","Human Resources","Speciality Products",Female,Caucasian,41,2008-10-26,"$131,841 ",0.13,"United States",Columbus,NULL,17,8,16,Bachelor's,3
+E02599,"Daniel Huang","Vice President","Human Resources",Corporate,Male,Asian,31,2015-09-03,"$250,953 ",0.34,"United States",Columbus,NULL,373,9,10,Master's,1
+E02044,"Caroline Alexander","Business Partner","Human Resources",Manufacturing,Female,Black,42,2020-09-18,"$47,071 ",0,"United States",Columbus,NULL,906,10,1,Bachelor's,3
+E01118,"Roman Yang",Manager,"Human Resources",Manufacturing,Male,Asian,42,2009-12-12,"$114,242 ",0.08,"United States",Phoenix,NULL,69,10,15,Bachelor's,4
+E00650,"Emery Chang","Business Partner","Human Resources","Research & Development",Female,Asian,45,2000-08-17,"$55,563 ",0,China,Chengdu,NULL,431,10,9,PhD,1
+E03461,"Nathan Lau","Business Partner","Human Resources","Research & Development",Male,Asian,35,2011-02-22,"$43,336 ",0,"United States",Austin,2020-07-12,494,6,8,PhD,3
+E03490,"Henry Campos","Sr. Manger","Human Resources",Corporate,Male,Latino,38,2009-09-27,"$127,801 ",0.15,"United States",Phoenix,NULL,663,9,5,Bachelor's,1
+E02185,"Aubrey Yoon","Sr. Business Partner","Human Resources","Research & Development",Female,Asian,60,2005-11-11,"$78,388 ",0,China,Chongqing,NULL,271,6,12,Bachelor's,2
+E02185,"Aubrey Yoon","Sr. Business Partner","Human Resources","Research & Development",Female,Asian,60,2005-11-11,"$78,388 ",0,China,Chongqing,NULL,122,10,14,Bachelor's,1
+E00403,"Liliana Soto","Business Partner","Human Resources",Manufacturing,Female,Latino,58,2010-10-12,"$43,001 ",0,"United States",Austin,NULL,840,8,2,Master's,0
+E04358,"Grayson Soto","Business Partner","Human Resources",Manufacturing,Male,Latino,34,2015-08-03,"$52,200 ",0,"United States",Columbus,NULL,766,9,3,Master's,2
+E04662,"Julia Morris","Sr. Manger","Human Resources",Corporate,Female,Caucasian,60,2008-10-18,"$150,855 ",0.11,"United States",Phoenix,NULL,149,10,14,Master's,0
+E02140,"Naomi Zhao","Vice President","Human Resources","Speciality Products",Female,Asian,45,2021-09-22,"$201,396 ",0.32,"United States",Miami,NULL,971,10,0,Bachelor's,1
+E00364,"Matthew Howard",Director,"Human Resources",Manufacturing,Male,Caucasian,50,2021-10-17,"$172,180 ",0.3,"United States",Columbus,NULL,769,7,3,Bachelor's,3
+E03889,"Caleb Flores",Manager,"Human Resources",Manufacturing,Male,Latino,34,2013-08-13,"$113,909 ",0.06,Brazil,"Rio de Janerio",NULL,209,7,13,Bachelor's,1
+E04795,"Eloise Alexander","Vice President","Human Resources",Corporate,Female,Black,28,2018-01-21,"$208,210 ",0.3,"United States",Seattle,NULL,212,9,13,Bachelor's,2
+E02103,"Andrew Ma","HRIS Analyst","Human Resources",Corporate,Male,Asian,31,2017-09-24,"$71,755 ",0,China,Chongqing,NULL,974,7,0,Bachelor's,3
+E03097,"Brooks Stewart","HRIS Analyst","Human Resources",Manufacturing,Male,Black,45,2015-12-19,"$51,983 ",0,"United States",Columbus,NULL,151,5,14,Bachelor's,3
+E00972,"Hazel Cortez","HRIS Analyst","Human Resources","Research & Development",Female,Latino,52,2021-04-18,"$50,548 ",0,Brazil,"Sao Paulo",NULL,612,6,6,Master's,4
+E00972,"Hazel Cortez","HRIS Analyst","Human Resources","Research & Development",Female,Latino,52,2021-04-18,"$50,548 ",0,Brazil,"Sao Paulo",NULL,128,10,14,Bachelor's,2
+E04799,"Mila Roberts","Sr. Business Partner","Human Resources",Corporate,Female,Caucasian,30,2017-01-26,"$88,663 ",0,"United States",Phoenix,NULL,84,7,15,PhD,3
+E04417,"Chloe Salazar","Sr. Manger","Human Resources","Speciality Products",Female,Latino,45,2011-05-22,"$152,353 ",0.14,"United States",Seattle,NULL,152,8,14,Bachelor's,3
+E01407,"Ellie Guerrero","Sr. Manger","Human Resources",Corporate,Female,Latino,29,2020-07-13,"$141,555 ",0.11,Brazil,Manaus,NULL,710,5,4,Bachelor's,4
+E01714,"Savannah Park","HRIS Analyst","Human Resources",Manufacturing,Female,Asian,44,2009-01-28,"$53,301 ",0,"United States",Seattle,NULL,281,8,12,Bachelor's,2
+E01076,"Sofia Vu","Sr. Manger","Human Resources","Research & Development",Female,Asian,52,2017-09-05,"$140,042 ",0.13,"United States",Austin,NULL,440,10,9,Bachelor's,3
+E02843,"Lily Pena",Manager,"Human Resources","Speciality Products",Female,Latino,55,2010-02-24,"$102,839 ",0.05,"United States",Miami,NULL,87,6,15,Bachelor's,4
+E02063,"Ian Gutierrez","Sr. Business Partner","Human Resources","Research & Development",Male,Latino,32,2021-04-09,"$70,980 ",0,Brazil,"Rio de Janerio",NULL,498,9,8,Bachelor's,0
+E03571,"Lincoln Henderson","Business Partner","Human Resources","Speciality Products",Male,Caucasian,28,2021-06-27,"$48,510 ",0,"United States",Chicago,NULL,711,6,4,Bachelor's,0
+E02770,"James Huang",Manager,"Human Resources","Speciality Products",Male,Asian,54,1997-03-11,"$128,136 ",0.05,China,Beijing,NULL,65,8,15,Bachelor's,1
+E02770,"James Huang",Manager,"Human Resources","Speciality Products",Male,Asian,54,1997-03-11,"$128,136 ",0.05,China,Beijing,NULL,28,8,16,Master's,0
+E02884,"Axel Johnson",Director,"Human Resources",Corporate,Male,Caucasian,60,2015-04-14,"$155,788 ",0.17,"United States",Seattle,NULL,156,5,14,Master's,1
+E00701,"Madeline Garcia","Sr. Business Partner","Human Resources","Speciality Products",Female,Latino,45,2019-04-26,"$74,891 ",0,Brazil,"Rio de Janerio",NULL,499,10,8,Bachelor's,1
+E02920,"Willow Woods","Vice President","Human Resources","Speciality Products",Female,Caucasian,28,2021-07-25,"$231,850 ",0.39,"United States",Miami,NULL,922,9,1,Master's,2
+E04299,"Paisley Hall",Director,"Human Resources","Speciality Products",Female,Caucasian,41,2010-05-21,"$153,275 ",0.24,"United States",Columbus,NULL,223,9,13,Bachelor's,2
+E03471,"Julia Sandoval",Manager,"Human Resources",Corporate,Female,Latino,42,2017-11-19,"$101,143 ",0.06,"United States",Miami,NULL,225,10,13,Master's,1
+E00717,"Kennedy Vargas","Business Partner","Human Resources",Manufacturing,Female,Latino,45,2005-10-14,"$51,404 ",0,Brazil,Manaus,2009-12-06,996,6,0,Master's,2
+E00717,"Kennedy Vargas","Business Partner","Human Resources",Manufacturing,Female,Latino,45,2005-10-14,"$51,404 ",0,Brazil,Manaus,2009-12-06,985,9,0,PhD,1
+E00717,"Kennedy Vargas","Business Partner","Human Resources",Manufacturing,Female,Latino,45,2005-10-14,"$51,404 ",0,Brazil,Manaus,2009-12-06,627,7,6,Bachelor's,3
+E02066,"Grayson Yee",Manager,"Human Resources",Corporate,Male,Asian,48,2015-07-16,"$110,565 ",0.09,China,Beijing,NULL,505,5,8,Bachelor's,0
+E03681,"Lyla Chen","Sr. Business Partner","Human Resources","Research & Development",Female,Asian,45,2019-04-26,"$90,870 ",0,"United States",Chicago,NULL,159,9,14,Bachelor's,2
+E00810,"Hunter Nunez","Vice President","Human Resources",Corporate,Male,Latino,62,2002-08-16,"$234,594 ",0.33,"United States",Seattle,NULL,392,10,10,Bachelor's,2
+E02391,"Natalia Santos","Vice President","Human Resources","Speciality Products",Female,Latino,45,2019-02-25,"$249,801 ",0.39,Brazil,"Sao Paulo",NULL,228,7,13,Bachelor's,3
+E02391,"Natalia Santos","Vice President","Human Resources","Speciality Products",Female,Latino,45,2019-02-25,"$249,801 ",0.39,Brazil,"Sao Paulo",NULL,33,7,16,Bachelor's,4
+E02642,"Sebastian Rogers","HRIS Analyst","Human Resources","Research & Development",Male,Caucasian,38,2019-11-29,"$69,647 ",0,"United States",Miami,2022-04-20,722,8,4,Bachelor's,2
+E03528,"Leo Hsu","Sr. Manger","Human Resources",Manufacturing,Male,Asian,62,2017-11-22,"$138,808 ",0.15,China,Chongqing,NULL,564,6,7,Master's,0
+E01268,"Charlotte Wu","Sr. Business Partner","Human Resources",Manufacturing,Female,Asian,63,2007-05-02,"$72,805 ",0,China,Shanghai,NULL,229,8,13,Master's,4
+E01209,"Jayden Williams",Manager,"Human Resources",Manufacturing,Male,Caucasian,64,1992-12-26,"$104,668 ",0.08,"United States",Columbus,NULL,290,8,12,Bachelor's,2
+E00276,"Alexander Jackson",Manager,"Human Resources",Corporate,Male,Caucasian,45,2012-07-09,"$109,883 ",0.07,"United States",Columbus,NULL,961,9,0,Bachelor's,4
+E00276,"Alexander Jackson",Manager,"Human Resources",Corporate,Male,Caucasian,45,2012-07-09,"$109,883 ",0.07,"United States",Columbus,NULL,155,8,14,Bachelor's,1
+E00276,"Alexander Jackson",Manager,"Human Resources",Corporate,Male,Caucasian,45,2012-07-09,"$109,883 ",0.07,"United States",Columbus,NULL,32,10,16,Bachelor's,0
+E00951,"Everly Lin","Business Partner","Human Resources",Manufacturing,Female,Asian,25,2021-03-15,"$47,974 ",0,China,Chongqing,NULL,925,6,1,Bachelor's,1
+E00503,"Leah Patterson",Manager,"Human Resources","Research & Development",Female,Caucasian,33,2012-06-11,"$118,253 ",0.08,"United States",Austin,NULL,679,9,5,Bachelor's,0
+E00676,"Isaac Yoon",Manager,"Human Resources",Corporate,Male,Asian,41,2019-02-06,"$126,950 ",0.1,"United States",Chicago,NULL,163,8,14,Master's,0
+E01286,"Liam Sanders","Sr. Business Partner","Human Resources",Corporate,Male,Caucasian,46,2007-02-20,"$75,579 ",0,"United States",Seattle,NULL,894,7,1,Bachelor's,2
+E01286,"Liam Sanders","Sr. Business Partner","Human Resources",Corporate,Male,Caucasian,46,2007-02-20,"$75,579 ",0,"United States",Seattle,NULL,862,9,2,Master's,0
+E04564,"Luke Sanchez","Sr. Manger","Human Resources",Manufacturing,Male,Latino,41,2015-12-27,"$129,903 ",0.13,Brazil,"Sao Paulo",NULL,569,8,7,Bachelor's,3
+E02235,"Riley Ramirez","Sr. Business Partner","Human Resources","Research & Development",Female,Latino,52,1999-09-13,"$92,994 ",0,"United States","  Chicago  ",NULL,344,9,11,Master's,2
+E01188,"Alexander James","Sr. Manger","Human Resources",Manufacturing,Male,Caucasian,42,2013-04-18,"$131,179 ",0.15,"United States",Columbus,NULL,786,7,3,Bachelor's,0
+E04920,"Nevaeh Hsu","Sr. Manger","Human Resources",Manufacturing,Female,Asian,32,2017-04-14,"$154,956 ",0.13,"United States",Phoenix,NULL,570,9,7,PhD,4
+E03910,"Nova Hsu",Manager,"Human Resources","Speciality Products",Female,Asian,32,2017-01-03,"$101,870 ",0.1,"United States",Phoenix,NULL,928,5,1,Bachelor's,1
+E00369,"Genesis Woods",Manager,"Human Resources","Speciality Products",Female,Black,33,2013-08-21,"$105,390 ",0.06,"United States",Columbus,NULL,868,10,2,PhD,3
+E02492,"Parker Sandoval",Manager,"Human Resources","Speciality Products",Male,Latino,59,2015-06-10,"$101,985 ",0.07,"United States",Miami,NULL,626,5,6,Master's,2
+E02492,"Parker Sandoval",Manager,"Human Resources","Speciality Products",Male,Latino,59,2015-06-10,"$101,985 ",0.07,"United States",Miami,NULL,218,6,13,Master's,4
+E01388,"Cooper Gupta","Business Partner","Human Resources","Speciality Products",Male,Asian,58,2014-06-20,"$41,728 ",0,China,Chongqing,NULL,469,6,8,Bachelor's,0
+E01388,"Cooper Gupta","Business Partner","Human Resources","Speciality Products",Male,Asian,58,2014-06-20,"$41,728 ",0,China,Chongqing,NULL,297,5,12,Bachelor's,3
+E00340,"Eliana Allen","Business Partner","Human Resources","Research & Development",Female,Caucasian,56,2009-08-20,"$52,800 ",0,"United States",Phoenix,NULL,231,10,13,Bachelor's,0
+E01111,"Santiago f Moua","Sr. Manger","Human Resources",Corporate,Male,Asian,45,2010-05-07,"$145,093 ",0.12,"United States",Chicago,NULL,683,9,5,Bachelor's,2
+E00089,"Sofia Yoon","Sr. Manger","Human Resources","Research & Development",Female,Asian,37,2011-01-17,"$131,353 ",0.11,China,Shanghai,NULL,574,7,7,Bachelor's,2
+E03362,"Lily Henderson","HRIS Analyst","Human Resources",Manufacturing,Female,Caucasian,61,2011-05-20,"$64,937 ",0,"United States",Phoenix,NULL,794,5,3,Bachelor's,2
+E03637,"Landon Thao","HRIS Analyst","Human Resources","Speciality Products",Male,Asian,25,2021-01-21,"$67,299 ",0,"United States",Phoenix,NULL,35,5,16,Bachelor's,2
+E01264,"Hazel Alvarez","Business Partner","Human Resources","Research & Development",Female,Latino,62,2014-04-19,"$45,295 ",0,Brazil,"Sao Paulo",NULL,107,10,15,Bachelor's,4
+E00480,"Hadley Yee","Business Partner","Human Resources","Speciality Products",Female,Asian,31,2018-03-12,"$47,913 ",0,"United States",Seattle,NULL,728,6,4,Master's,3
+E00203,"Julia Doan","Business Partner","Human Resources","Speciality Products",Female,Asian,53,2017-09-07,"$46,727 ",0,"United States",Columbus,2018-05-31,168,9,14,Bachelor's,3
+E00647,"Dylan Ali","Sr. Manger","Human Resources","Speciality Products",Male,Asian,27,2021-04-16,"$133,400 ",0.11,"United States",Phoenix,NULL,456,10,9,Bachelor's,1
+E00647,"Dylan Ali","Sr. Manger","Human Resources","Speciality Products",Male,Asian,27,2021-04-16,"$133,400 ",0.11,"United States",Phoenix,NULL,109,9,15,Bachelor's,0
+E00647,"Emily Gupta","HRIS Analyst","Human Resources",Corporate,Female,Asian,44,2006-02-23,"$63,705 ",0,"United States",Miami,NULL,456,10,9,Bachelor's,1
+E00647,"Emily Gupta","HRIS Analyst","Human Resources",Corporate,Female,Asian,44,2006-02-23,"$63,705 ",0,"United States",Miami,NULL,109,9,15,Bachelor's,0
+E00459,"Jackson Jordan","Business Partner","Human Resources","Research & Development",Male,Black,48,2020-09-21,"$54,654 ",0,"United States",Phoenix,NULL,629,9,6,Bachelor's,0
+E00952,"Leilani Thao",Director,"Human Resources","Speciality Products",Female,Asian,38,2007-05-30,"$198,562 ",0.22,"United States",Seattle,NULL,630,6,6,Bachelor's,1
+E00952,"Leilani Thao",Director,"Human Resources","Speciality Products",Female,Asian,38,2007-05-30,"$198,562 ",0.22,"United States",Seattle,NULL,454,5,9,Bachelor's,4
+E03379,"Landon Kim",Manager,"Human Resources","Speciality Products",Male,Asian,50,2012-03-15,"$117,226 ",0.08,"United States",Phoenix,NULL,799,9,3,Bachelor's,2
+E02193,"Josephine Acosta",Director,"Human Resources","Speciality Products",Female,Latino,40,2020-09-20,"$198,176 ",0.17,Brazil,Manaus,NULL,937,5,1,Bachelor's,0
+E00880,"Grace Carter","Sr. Manger","Human Resources","Speciality Products",Female,Black,25,2021-03-17,"$155,080 ",0.1,"United States",Austin,NULL,875,6,2,Master's,3
+E04562,"Kinsley Martinez",Director,"Human Resources","Speciality Products",Female,Latino,52,1993-08-28,"$177,443 ",0.25,Brazil,"Sao Paulo",NULL,129,7,14,Bachelor's,4
+E04562,"Kinsley Martinez",Director,"Human Resources","Speciality Products",Female,Latino,52,1993-08-28,"$177,443 ",0.25,Brazil,"Sao Paulo",NULL,37,6,16,Bachelor's,0
+E02554,"Joshua Ramirez","Vice President","Human Resources",Corporate,Male,Latino,44,2007-09-10,"$181,247 ",0.33,Brazil,"Sao Paulo",NULL,732,8,4,Master's,4
+E03412,"Joshua Martin","Sr. Manger","Human Resources","Research & Development",Male,Black,42,2003-10-20,"$135,558 ",0.14,"United States",Phoenix,NULL,401,6,10,Bachelor's,2
+E00446,"Isaac Han","Vice President","Human Resources","Speciality Products",Male,Asian,31,2015-01-14,"$230,025 ",0.34,"United States",Phoenix,NULL,734,9,4,PhD,4
+E00446,"Isaac Han","Vice President","Human Resources","Speciality Products",Male,Asian,31,2015-01-14,"$230,025 ",0.34,"United States",Phoenix,NULL,89,5,15,Bachelor's,3
+E02363,"Eliza Liang","Sr. Manger","Human Resources","Speciality Products",Female,Asian,36,2010-03-11,"$134,006 ",0.13,China,Beijing,NULL,802,10,3,Bachelor's,4
+E02561,"Samantha Vargas",Director,"Human Resources",Corporate,Female,Latino,53,2006-07-21,"$151,246 ",0.21,Brazil,"Sao Paulo",NULL,170,6,14,Bachelor's,1
+E00758,"Alice Roberts",Director,"Human Resources",Manufacturing,Female,Caucasian,54,1994-09-26,"$162,978 ",0.17,"United States",Miami,2004-05-24,607,9,6,Bachelor's,0
+E00758,"Alice Roberts",Director,"Human Resources",Manufacturing,Female,Caucasian,54,1994-09-26,"$162,978 ",0.17,"United States",Miami,2004-05-24,303,8,12,Bachelor's,0
+E03858,"John Cho",Director,"Human Resources","Speciality Products",Male,Asian,47,2019-11-03,"$195,385 ",0.21,China,Chengdu,NULL,737,8,4,Master's,3
+E02310,"Jordan Phillips","Vice President","Human Resources",Corporate,Male,Black,45,2010-12-12,"$190,512 ",0.32,"United States",Columbus,NULL,637,8,6,Bachelor's,3
+E03430,"Leo Herrera","Sr. Business Partner","Human Resources","Research & Development",Male,Latino,48,1998-04-22,"$85,369 ",0,Brazil,Manaus,2004-11-27,517,9,8,Master's,2
+E02389,"John Doe","Business Partner","Human Resources","Research & Development",Male,Asian,45,2015-07-20,"$65000 ",0,"United States",Phoenix,2022-02-16,1003,2,4,Bachelor's,2
+E09191,"Sarah Fortune",Director,"Human Resources","Specialty Products",Female,Caucasian,40,2012-01-20,"$170600 ",0.25,"United States",Miami,2022-06-21,1007,10,0,Bachelor's,3

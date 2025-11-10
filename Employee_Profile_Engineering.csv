@@ -1,0 +1,180 @@
+EEID,"Full Name","Job Title",Department,"Business Unit",Gender,Ethnicity,Age,"Hire Date","Annual Salary","Bonus %",Country,City,"Exit Date",PK,EmploymentRating,DaysOfAbsence,EducationLevel,CertificationsEarned
+E03344,"Camila Rogers","Controls Engineer",Engineering,"Speciality Products",Female,Caucasian,27,2021-10-21,,0,"United States",Seattle,NULL,642,10,5,Bachelor's,3
+E04545,"Abigail Mejia","Quality Engineer",Engineering,Corporate,Female,Latino,56,2005-02-05,"$98,581 ",0,Brazil,"Rio de Janerio",NULL,578,6,6,Master's,0
+E00154,"Wyatt Chin","Vice President",Engineering,"Speciality Products",Male,Asian,43,2004-06-07,"$246,231 ",0.31,"United States",Seattle,NULL,45,10,15,PhD,2
+E03343,"Carson Lu","Engineering Manager",Engineering,"Speciality Products",Male,Asian,64,1996-12-04,"$99,354 ",0.12,China,Beijing,NULL,407,6,9,Bachelor's,2
+E04152,"Adeline Huang","Controls Engineer",Engineering,Manufacturing,Female,Asian,34,2019-12-16,"$99,989 ",0,China,Chengdu,NULL,120,10,14,Bachelor's,0
+E03720,"Dominic Clark","Quality Engineer",Engineering,"Research & Development",Male,Caucasian,52,2012-10-17,"$71,476 ",0,"United States",Phoenix,NULL,812,8,2,Bachelor's,1
+E03720,"Dominic Clark","Quality Engineer",Engineering,"Research & Development",Male,Caucasian,52,2012-10-17,"$71,476 ",0,"United States",Phoenix,NULL,707,9,4,Bachelor's,0
+E03025,"Lucy Alexander",Director,Engineering,Manufacturing,Female,Caucasian,45,2014-10-29,"$189,420 ",0.2,"United States",Seattle,NULL,408,7,9,Master's,4
+E01797,"Piper Lewis","Field Engineer",Engineering,"Research & Development",Female,Caucasian,33,2018-12-22,,0,"United States",Chicago,NULL,813,8,2,Master's,3
+E01839,"Stella Alexander","Automation Engineer",Engineering,Corporate,Female,Caucasian,52,2005-12-10,"$102,043 ",0,"United States",Chicago,NULL,175,6,13,Master's,3
+E01633,"Addison Do","Operations Engineer",Engineering,Manufacturing,Female,Asian,46,2001-05-30,"$90,678 ",0,"United States",Columbus,NULL,580,6,6,Bachelor's,3
+E04000,"Skylar Carrillo","Engineering Manager",Engineering,Corporate,Female,Latino,44,2008-12-18,"$92,753 ",0.13,"United States",Austin,2021-06-24,124,8,14,Bachelor's,4
+E02966,"William Foster","Field Engineer",Engineering,Manufacturing,Male,Caucasian,58,2002-05-23,"$76,354 ",0,"United States",Phoenix,2021-09-26,3,10,16,Bachelor's,1
+E00665,"David Chu","Controls Engineer",Engineering,Corporate,Male,Asian,55,1998-09-03,"$86,299 ",0,"United States",Seattle,NULL,945,10,0,Bachelor's,4
+E04474,"Mila Hong","Test Engineer",Engineering,"Research & Development",Female,Asian,30,2017-05-22,"$86,858 ",0,China,Chongqing,2017-10-08,176,9,13,Bachelor's,0
+E01525,"Jose Ross","Engineering Manager",Engineering,"Research & Development",Male,Caucasian,53,1992-04-08,"$116,878 ",0.11,"United States",Miami,NULL,946,10,0,Bachelor's,4
+E01525,"Jose Ross","Engineering Manager",Engineering,"Research & Development",Male,Caucasian,53,1992-04-08,"$116,878 ",0.11,"United States",Miami,NULL,138,7,14,Bachelor's,4
+E00386,"Parker James","Quality Engineer",Engineering,"Speciality Products",Male,Black,45,2005-02-05,"$70,505 ",0,"United States",Austin,NULL,947,8,0,Bachelor's,1
+E00416,"Everleigh Fernandez",Director,Engineering,"Research & Development",Female,Latino,30,2016-05-22,"$189,702 ",0.28,Brazil,Manaus,2020-12-21,468,8,8,Bachelor's,4
+E01194,"Samantha Adams","Test Engineer",Engineering,"Research & Development",Female,Caucasian,45,2013-04-22,"$61,773 ",0,"United States",Seattle,NULL,889,8,1,Bachelor's,3
+E01194,"Samantha Adams","Test Engineer",Engineering,"Research & Development",Female,Caucasian,45,2013-04-22,"$61,773 ",0,"United States",Seattle,NULL,436,8,9,PhD,2
+E04959,"Noah King","Development Engineer",Engineering,"Speciality Products",Male,Black,56,2015-01-27,"$62,575 ",0,"United States",Miami,NULL,816,6,2,Master's,1
+E01388,"Ivy Soto","Field Engineer",Engineering,"Research & Development",Female,Latino,50,1997-10-23,"$91,763 ",0,"United States",Austin,NULL,469,6,8,Bachelor's,0
+E01388,"Ivy Soto","Field Engineer",Engineering,"Research & Development",Female,Latino,50,1997-10-23,"$91,763 ",0,"United States",Austin,NULL,297,5,12,Bachelor's,3
+E03875,"Aurora Simmons","Development Engineer",Engineering,Corporate,Female,Caucasian,51,1995-12-22,"$96,475 ",0,"United States",Austin,NULL,741,6,3,Bachelor's,4
+E04413,"Andrew Thomas","Controls Engineer",Engineering,Manufacturing,Male,Caucasian,36,2016-12-02,,0,"United States",Columbus,NULL,524,8,7,Master's,4
+E04265,"Natalia Diaz","Operations Engineer",Engineering,Corporate,female,Latino,62,2006-10-12,"$79,785 ",0,"United States",Austin,NULL,471,8,8,Bachelor's,0
+E00527,"Mateo Chu","Field Engineer",Engineering,"Speciality Products",Male,Asian,27,2020-04-16,"$71,864 ",0,China,Chengdu,NULL,361,10,10,Master's,4
+E01713,"Nolan Guzman","Field Engineer",Engineering,"Speciality Products",Male,Latino,46,1999-06-20,"$96,997 ",0,Brazil,"Sao Paulo",NULL,953,5,0,Bachelor's,1
+E02464,"Sophie Silva","Vice President",Engineering,Corporate,Female,Latino,28,2017-07-06,"$240,488 ",0.4,Brazil,"Rio de Janerio",NULL,955,8,0,Bachelor's,0
+E02939,"Julian Fong","Quality Engineer",Engineering,"Speciality Products",Male,Asian,61,2002-11-22,"$80,950 ",0,China,Chongqing,NULL,890,6,1,Bachelor's,2
+E02706,"Nevaeh Kang","Automation Engineer",Engineering,"Research & Development",Female,Asian,46,2021-01-10,"$86,538 ",0,China,Chengdu,NULL,616,8,6,Bachelor's,3
+E02706,"Nevaeh Kang","Automation Engineer",Engineering,"Research & Development",Female,Asian,46,2021-01-10,"$86,538 ",0,China,Chengdu,NULL,5,7,16,Master's,2
+E01425,,"Vice President",Engineering,Corporate,Male,Caucasian,33,2015-06-18,"$205,314 ",0.3,"United States",Columbus,NULL,180,8,13,Bachelor's,3
+E04458,"Alexander Bryant","Field Engineer",Engineering,"Speciality Products",Male,Caucasian,30,2021-10-02,"$88,758 ",0,"United States",Seattle,NULL,648,6,5,Master's,3
+E03717,"Joseph Ruiz","Field Engineer",Engineering,Manufacturing,Male,,,NULL,,,Brazil,"Sao Paulo",NULL,410,10,9,Bachelor's,3
+E01501,"Hudson Liu","Engineering Manager",Engineering,"Speciality Products",Male,Asian,34,2017-11-16,"$110,054 ",0.15,"United States",Miami,NULL,181,9,13,Bachelor's,0
+E01141,"Gianna Williams","Quality Engineer",Engineering,"Research & Development",Female,Black,27,2021-01-28,"$95,786 ",0,"United States",Chicago,NULL,310,10,11,Bachelor's,4
+E02942,"Daniel Richardson",Director,Engineering,"Speciality Products",Male,Caucasian,30,2018-05-20,"$184,368 ",0.29,"United States",Austin,NULL,745,9,3,Bachelor's,3
+E00769,"Jose Kang","Engineering Manager",Engineering,Corporate,Male,Asian,57,1999-04-25,"$95,061 ",0.1,China,Shanghai,NULL,959,5,0,Bachelor's,3
+E00715,"Elijah Kang","Vice President",Engineering,Manufacturing,Male,Asian,35,2011-10-10,"$245,482 ",0.39,"United States",Seattle,NULL,695,10,4,Bachelor's,4
+E04288,"Ella White","Development Engineer",Engineering,Manufacturing,Female,Caucasian,25,2020-01-20,"$71,359 ",0,"United States",Phoenix,NULL,250,8,12,Master's,4
+E02421,"Jordan Truong",Director,Engineering,"Speciality Products",Male,Asian,45,2014-08-28,"$183,161 ",0.22,"United States",Miami,NULL,529,9,7,PhD,1
+E03615,"Daniel Dixon","Operations Engineer",Engineering,"Speciality Products",Male,Caucasian,51,1999-10-09,"$95,639 ",0,"United States",Austin,NULL,588,10,6,Bachelor's,0
+E01286,"Mateo Mendez","Development Engineer",Engineering,"Research & Development",Male,Latino,47,1998-07-14,"$99,091 ",0,"United States",Austin,NULL,894,7,1,Bachelor's,2
+E01286,"Mateo Mendez","Development Engineer",Engineering,"Research & Development",Male,Latino,47,1998-07-14,"$99,091 ",0,"United States",Austin,NULL,862,9,2,Master's,0
+E01409,"Jose Molina","Controls Engineer",Engineering,Manufacturing,Male,Latino,40,2008-02-28,"$113,987 ",0,Brazil,Manaus,NULL,747,8,3,Master's,4
+E00917,"Skylar Bell","Vice President",Engineering,Manufacturing,Female,Caucasian,30,2018-03-06,"$255,431 ",0.36,"United States",Columbus,NULL,189,5,13,Bachelor's,3
+E02813,"Kai Chow","Engineering Manager",Engineering,Corporate,Male,Asian,45,2001-04-12,"$95,743 ",0.15,"United States",Austin,2010-01-15,480,8,8,Bachelor's,3
+E02031,"Melody Cooper","Development Engineer",Engineering,"Research & Development",Female,Caucasian,44,2009-09-04,"$89,695 ",0,"United States",Austin,NULL,532,8,7,Bachelor's,1
+E03268,"Emilia Rivera","Test Engineer",Engineering,"Research & Development",Female,Latino,42,2017-11-23,"$96,023 ",0,"United States",Miami,NULL,824,9,2,Bachelor's,1
+E03268,"Emilia Rivera","Test Engineer",Engineering,"Research & Development",Female,Latino,42,2017-11-23,"$96,023 ",0,"United States",Miami,NULL,598,9,6,Bachelor's,1
+E01263,"Adam Espinoza","Test Engineer",Engineering,Manufacturing,Male,Latino,36,2009-04-09,"$60,055 ",0,"United States",Seattle,NULL,254,9,12,Bachelor's,1
+E00119,"Jack Maldonado",Director,Engineering,"Research & Development",Male,Latino,31,2020-08-26,"$189,290 ",0.22,Brazil,"Sao Paulo",2020-09-25,255,10,12,PhD,4
+E01271,"Luke Munoz",Director,Engineering,"Speciality Products",Male,Latino,64,2017-08-25,"$169,509 ",0.18,Brazil,Manaus,NULL,256,9,12,Bachelor's,3
+E03664,"Aria Castro","Engineering Manager",Engineering,"Speciality Products",Female,Latino,45,2014-03-14,"$113,873 ",0.11,Brazil,"Rio de Janerio",NULL,826,5,2,Bachelor's,2
+E00245,"Benjamin Delgado","Test Engineer",Engineering,Corporate,Male,Latino,64,1992-09-28,"$70,778 ",0,"United States",Austin,NULL,677,5,5,PhD,4
+E00245,"Benjamin Delgado","Test Engineer",Engineering,Corporate,Male,Latino,64,1992-09-28,"$70,778 ",0,"United States",Austin,NULL,137,6,14,Bachelor's,3
+E01807,"Cameron Evans","Test Engineer",Engineering,Corporate,Male,Caucasian,50,2018-12-13,"$63,098 ",0,"United States",Columbus,NULL,368,10,10,Bachelor's,0
+E01807,"Cameron Evans","Test Engineer",Engineering,Corporate,Male,Caucasian,50,2018-12-13,"$63,098 ",0,"United States",Columbus,NULL,267,8,12,Bachelor's,0
+E01091,"Carter Reed","Development Engineer",Engineering,Manufacturing,Male,Black,40,2005-07-07,"$74,412 ",0,"United States",Seattle,NULL,55,6,15,Bachelor's,1
+E02378,"Audrey Smith","Field Engineer",Engineering,"Research & Development",Female,Caucasian,58,1995-10-27,"$70,189 ",0,"United States",Columbus,NULL,482,5,8,Bachelor's,2
+E04332,"Ezra Simmons","Automation Engineer",Engineering,"Speciality Products",Male,Caucasian,38,2010-07-01,"$78,237 ",0,"United States",Phoenix,NULL,829,7,2,Bachelor's,2
+E04332,"Ezra Simmons","Automation Engineer",Engineering,"Speciality Products",Male,Caucasian,38,2010-07-01,"$78,237 ",0,"United States",Phoenix,NULL,809,9,2,Bachelor's,3
+E03438,"Asher Morales","Automation Engineer",Engineering,"Research & Development",Male,Latino,52,2020-07-10,"$88,272 ",0,Brazil,"Sao Paulo",NULL,752,7,3,Bachelor's,3
+E02944,"Joshua Fong","Vice President",Engineering,"Speciality Products",Male,Asian,47,2012-06-11,"$222,941 ",0.39,China,Beijing,NULL,594,6,6,Bachelor's,4
+E02148,"Christopher Vega","Engineering Manager",Engineering,"Research & Development",Male,Latino,54,2007-10-27,"$106,313 ",0.15,"United States",Chicago,NULL,317,5,11,Bachelor's,4
+E02838,"Julia Pham","Engineering Manager",Engineering,"Speciality Products",Female,Asian,65,2006-03-16,"$83,756 ",0.14,China,Shanghai,NULL,831,8,2,Master's,3
+E04222,"Quinn Xiong","Test Engineer",Engineering,"Research & Development",Female,Asian,55,2013-09-08,"$73,248 ",0,"United States",Columbus,NULL,485,5,8,Bachelor's,0
+E03018,"Autumn Reed","Development Engineer",Engineering,Corporate,Female,Caucasian,37,2017-09-17,"$70,770 ",0,"United States",Miami,NULL,318,9,11,Bachelor's,3
+E00467,"Sofia Dinh","Operations Engineer",Engineering,Corporate,Female,Asian,55,1995-08-04,"$80,701 ",0,"United States",Chicago,2005-04-14,260,6,12,Bachelor's,3
+E00306,"Piper Patterson","Quality Engineer",Engineering,Corporate,Female,Caucasian,45,2019-06-19,"$88,045 ",0,"United States",Chicago,NULL,756,8,3,Bachelor's,0
+E00306,"Piper Patterson","Quality Engineer",Engineering,Corporate,Female,Caucasian,45,2019-06-19,"$88,045 ",0,"United States",Chicago,NULL,472,6,8,Bachelor's,0
+E04779,"Cameron Young","Vice President",Engineering,Manufacturing,Male,Caucasian,63,2016-01-18,"$180,994 ",0.39,"United States",Seattle,NULL,261,5,12,Bachelor's,2
+E03347,"Rylee Dinh","Development Engineer",Engineering,"Speciality Products",Female,Asian,35,2017-02-10,"$60,132 ",0,China,Chongqing,NULL,320,7,11,Bachelor's,1
+E00422,"Jade Acosta","Development Engineer",Engineering,"Research & Development",Female,Latino,47,2015-08-29,"$68,488 ",0,"United States",Seattle,NULL,900,7,1,Master's,3
+E00265,"Mila Vasquez","Quality Engineer",Engineering,Manufacturing,Female,Latino,60,1998-07-16,"$92,932 ",0,"United States",Columbus,NULL,832,8,2,Bachelor's,2
+E02914,"Maria Wilson","Vice President",Engineering,"Research & Development",Female,Caucasian,51,1996-06-14,"$200,246 ",0.34,"United States",Columbus,NULL,539,8,7,Master's,4
+E01924,"Anna Gutierrez",Director,Engineering,"Research & Development",Female,Latino,59,2003-04-15,"$150,699 ",0.29,Brazil,"Sao Paulo",NULL,322,9,11,Bachelor's,2
+E04571,"Hadley Contreras",Director,Engineering,Corporate,Female,Latino,60,2017-01-04,"$178,502 ",0.2,"United States",Austin,NULL,835,8,2,Bachelor's,3
+E02693,"Grace Campos",Director,Engineering,"Research & Development",Female,Latino,37,2008-03-21,"$156,277 ",0.22,Brazil,Manaus,NULL,836,6,2,PhD,0
+E03359,"Autumn Ortiz","Field Engineer",Engineering,"Research & Development",Female,Latino,30,2017-12-17,"$87,744 ",0,Brazil,"Sao Paulo",NULL,701,5,4,Bachelor's,4
+E00360,"Dylan Thao",Director,Engineering,Manufacturing,Male,Asian,53,2012-10-22,"$168,510 ",0.29,"United States",Seattle,NULL,602,9,6,Bachelor's,4
+E02284,"Josephine Salazar","Field Engineer",Engineering,"Speciality Products",Female,Latino,36,2016-03-14,"$85,870 ",0,Brazil,"Sao Paulo",NULL,196,5,13,Master's,3
+E01357,"Paisley Hunter","Engineering Manager",Engineering,"Research & Development",Female,Caucasian,61,2010-01-15,"$98,110 ",0.13,"United States",Chicago,NULL,199,9,13,Master's,0
+E03802,"Thomas Vazquez",Director,Engineering,Corporate,Male,Latino,46,2014-07-19,"$173,629 ",0.21,Brazil,"Sao Paulo",NULL,604,6,6,Bachelor's,3
+E02417,"Alice Young","Automation Engineer",Engineering,"Research & Development",Female,Caucasian,46,2008-01-24,"$91,621 ",0,"United States",Chicago,NULL,905,6,1,Bachelor's,1
+E04962,"Elena Tan","Vice President",Engineering,Manufacturing,Female,Asian,50,2008-10-13,"$181,801 ",0.4,China,Chongqing,2019-12-11,266,6,12,PhD,3
+E03893,"Alice Xiong","Vice President",Engineering,Manufacturing,Female,Asian,55,2018-09-02,"$221,465 ",0.34,China,Chengdu,NULL,325,7,11,PhD,3
+E00553,"Isla Yoon","Quality Engineer",Engineering,"Research & Development",Female,Asian,50,2013-05-10,"$79,388 ",0,"United States",Austin,2019-08-04,429,9,9,Bachelor's,4
+E04226,"Andrew Moore","Operations Engineer",Engineering,Manufacturing,Male,Caucasian,47,2001-01-02,"$120,628 ",0,"United States",Chicago,NULL,605,7,6,Bachelor's,4
+E04308,"Kai Flores","Development Engineer",Engineering,Manufacturing,Male,Latino,35,2017-05-23,"$65,566 ",0,"United States",Seattle,NULL,70,9,15,Bachelor's,1
+E02730,"Axel Soto","Quality Engineer",Engineering,Corporate,Male,Latino,46,2005-04-22,"$96,639 ",0,Brazil,"Rio de Janerio",NULL,326,6,11,Bachelor's,1
+E00465,"Dominic Parker","Test Engineer",Engineering,"Research & Development",Male,Caucasian,62,2011-10-04,"$63,959 ",0,"United States",Seattle,NULL,294,10,12,PhD,0
+E00465,"Dominic Parker","Test Engineer",Engineering,"Research & Development",Male,Caucasian,62,2011-10-04,"$63,959 ",0,"United States",Seattle,NULL,269,10,12,Bachelor's,4
+E04345,"Eliana Grant","Engineering Manager",Engineering,"Speciality Products",Female,Caucasian,64,1994-06-20,"$109,456 ",0.1,"United States",Chicago,NULL,376,8,10,Bachelor's,3
+E03750,"Elias Dang",Director,Engineering,"Speciality Products",Male,Asian,64,1995-08-29,"$158,787 ",0.18,China,Chengdu,NULL,778,10,3,PhD,3
+E03750,"Elias Dang",Director,Engineering,"Speciality Products",Male,Asian,64,1995-08-29,"$158,787 ",0.18,China,Chengdu,NULL,73,5,15,Master's,1
+E00144,"Theodore Ngo","Controls Engineer",Engineering,"Research & Development",Male,Asian,55,2018-04-29,"$83,378 ",0,China,Beijing,NULL,608,9,6,Bachelor's,3
+E02678,"Nicholas Rivera",Director,Engineering,Corporate,Male,Latino,45,2007-04-13,"$189,680 ",0.23,Brazil,"Sao Paulo",NULL,205,6,13,Bachelor's,3
+E02190,"Gabriel Carter","Test Engineer",Engineering,Manufacturing,Male,Caucasian,57,2018-07-18,"$71,167 ",0,"United States",Columbus,NULL,328,5,11,Master's,0
+E00268,"Ian Flores",Director,Engineering,Corporate,Male,Latino,48,2019-12-10,"$183,113 ",0.24,Brazil,"Rio de Janerio",NULL,329,5,11,Bachelor's,0
+E03849,"Harper Chin","Quality Engineer",Engineering,Manufacturing,Female,Asian,50,2002-07-09,"$92,209 ",0,China,Shanghai,NULL,954,7,0,Bachelor's,4
+E03849,"Harper Chin","Quality Engineer",Engineering,Manufacturing,Female,Asian,50,2002-07-09,"$92,209 ",0,China,Shanghai,NULL,330,9,11,Bachelor's,1
+E04811,"Athena Vasquez","Field Engineer",Engineering,"Speciality Products",Female,Latino,59,2014-09-16,"$69,578 ",0,Brazil,"Rio de Janerio",NULL,433,7,9,Bachelor's,0
+E03404,"Everleigh Nunez","Field Engineer",Engineering,"Speciality Products",Female,Latino,42,2021-02-05,"$65,507 ",0,Brazil,Manaus,NULL,76,10,15,Bachelor's,1
+E00153,"Claire Jones","Field Engineer",Engineering,Corporate,Female,Caucasian,39,2019-03-12,"$62,644 ",0,"United States",Seattle,NULL,80,9,15,Bachelor's,3
+E00096,"Peyton Cruz","Development Engineer",Engineering,Manufacturing,Female,Latino,30,2016-05-26,"$91,134 ",0,Brazil,"Sao Paulo",NULL,378,5,10,Master's,1
+E02473,"Leonardo Lo","Quality Engineer",Engineering,"Speciality Products",Male,Asian,29,2021-11-15,"$91,782 ",0,China,Chongqing,NULL,669,9,5,PhD,0
+E01167,"Kinsley Collins","Automation Engineer",Engineering,"Speciality Products",Female,Caucasian,28,2018-11-14,"$115,854 ",0,"United States",Phoenix,NULL,210,5,13,Bachelor's,1
+E03181,"Greyson Dang","Development Engineer",Engineering,Manufacturing,Male,Asian,60,2009-05-11,"$62,239 ",0,China,Beijing,NULL,81,8,15,Bachelor's,1
+E00703,"Wesley Dominguez","Engineering Manager",Engineering,Corporate,Male,Latino,45,2018-04-27,"$115,490 ",0.12,"United States",Chicago,NULL,496,9,8,Bachelor's,0
+E02179,"Peyton Owens","Controls Engineer",Engineering,"Speciality Products",Female,Caucasian,48,2014-09-25,"$96,693 ",0,"United States",Chicago,NULL,213,10,13,Bachelor's,3
+E04242,"Alice Lopez","Test Engineer",Engineering,"Speciality Products",Female,Latino,48,2009-06-27,"$82,907 ",0,"United States",Seattle,NULL,214,10,13,Bachelor's,2
+E03065,"Ezra Ortiz","Quality Engineer",Engineering,"Research & Development",Male,Latino,41,2012-01-21,"$94,658 ",0,"United States",Miami,NULL,976,5,0,Bachelor's,0
+E01377,"Grayson Luu","Quality Engineer",Engineering,"Research & Development",Male,Asian,55,2011-04-30,"$89,419 ",0,China,Shanghai,NULL,550,9,7,Bachelor's,4
+E01787,"Lillian Romero",Director,Engineering,Corporate,Female,Latino,27,2018-12-07,"$170,164 ",0.17,"United States",Austin,NULL,551,6,7,Bachelor's,4
+E03402,"Isaac Liu","Field Engineer",Engineering,Manufacturing,Male,Asian,60,1992-10-13,"$88,213 ",0,China,Chongqing,NULL,85,9,15,Master's,4
+E03114,"Jameson Juarez","Development Engineer",Engineering,"Speciality Products",Male,Latino,62,1994-10-09,"$98,230 ",0,"United States",Miami,NULL,86,9,15,Bachelor's,2
+E04004,"Everleigh Shah","Test Engineer",Engineering,"Research & Development",Female,Asian,36,2018-12-14,"$96,757 ",0,"United States",Columbus,NULL,552,5,7,Bachelor's,3
+E02477,"Amelia Bui",Director,Engineering,"Speciality Products",Female,Asian,46,2020-10-21,"$151,853 ",0.16,China,Chengdu,NULL,24,5,16,Master's,4
+E03160,"Carter Ortiz","Quality Engineer",Engineering,"Speciality Products",Male,Latino,54,2012-04-29,"$96,441 ",0,Brazil,"Sao Paulo",NULL,25,8,16,Bachelor's,3
+E03919,"Grayson Chan","Engineering Manager",Engineering,"Speciality Products",Male,Asian,46,2011-10-20,"$114,250 ",0.14,China,Chengdu,NULL,614,8,6,Master's,4
+E02856,"Amelia Kaur","Operations Engineer",Engineering,"Research & Development",Female,Asian,30,2015-11-14,"$77,442 ",0,"United States",Columbus,NULL,215,5,13,Bachelor's,4
+E01090,"Jacob Cheng","Quality Engineer",Engineering,"Research & Development",Male,Asian,59,2009-12-23,"$78,006 ",0,"United States",Miami,NULL,279,10,12,Master's,1
+E01090,"Jacob Cheng","Quality Engineer",Engineering,"Research & Development",Male,Asian,59,2009-12-23,"$78,006 ",0,"United States",Miami,NULL,102,7,15,Master's,1
+E01820,"Nathan Miller","Quality Engineer",Engineering,"Speciality Products",Male,Black,27,2019-05-28,"$70,110 ",0,"United States",Miami,2021-01-07,845,9,2,Bachelor's,3
+E03563,"Ian Barnes","Operations Engineer",Engineering,Corporate,Male,Caucasian,47,2020-06-08,"$115,765 ",0,"United States",Miami,2021-02-02,443,9,9,Bachelor's,0
+E00276,"Kennedy Romero","Engineering Manager",Engineering,"Research & Development",Female,Latino,37,2018-12-27,"$87,359 ",0.11,Brazil,"Rio de Janerio",NULL,961,9,0,Bachelor's,4
+E00276,"Kennedy Romero","Engineering Manager",Engineering,"Research & Development",Female,Latino,37,2018-12-27,"$87,359 ",0.11,Brazil,"Rio de Janerio",NULL,155,8,14,Bachelor's,1
+E00276,"Kennedy Romero","Engineering Manager",Engineering,"Research & Development",Female,Latino,37,2018-12-27,"$87,359 ",0.11,Brazil,"Rio de Janerio",NULL,32,10,16,Bachelor's,0
+E04641,"Scarlett Hill",Director,Engineering,"Speciality Products",Female,Black,45,2018-04-22,"$187,205 ",0.24,"United States",Columbus,2022-06-20,27,8,16,Bachelor's,0
+E03984,"Hailey Foster","Controls Engineer",Engineering,Manufacturing,Female,Black,55,2021-03-21,"$95,562 ",0,"United States",Chicago,NULL,618,6,6,Master's,0
+E02825,"Wyatt Li","Vice President",Engineering,Manufacturing,Male,Asian,63,2013-06-03,"$254,289 ",0.39,"United States",Chicago,NULL,220,8,13,Bachelor's,0
+E04720,"Christopher Chung","Controls Engineer",Engineering,Corporate,Male,Asian,28,2021-12-18,"$95,670 ",0,"United States",Phoenix,NULL,91,8,15,Bachelor's,0
+E02877,"Mila Allen","Controls Engineer",Engineering,Corporate,Female,Caucasian,56,2015-10-14,"$76,272 ",0,"United States",Miami,2021-10-22,557,6,7,Bachelor's,2
+E03981,"Eliana Li","Test Engineer",Engineering,"Research & Development",Female,Asian,63,2018-05-07,"$67,987 ",0,"United States",Miami,NULL,504,6,8,Bachelor's,1
+E01966,"Thomas Williams","Field Engineer",Engineering,"Speciality Products",Male,Caucasian,45,2015-11-21,"$87,292 ",0,"United States",Columbus,NULL,986,5,0,Bachelor's,0
+E03364,"Audrey Lee","Development Engineer",Engineering,"Speciality Products",Female,Asian,51,2017-02-11,"$87,036 ",0,China,Chongqing,NULL,288,5,12,PhD,3
+E02298,"Emily Doan","Engineering Manager",Engineering,Corporate,Female,Asian,32,2014-12-04,"$99,202 ",0.11,"United States",Phoenix,NULL,227,7,13,Bachelor's,2
+E04699,"Ivy Tang","Development Engineer",Engineering,"Speciality Products",Female,Asian,48,2012-05-03,"$65,340 ",0,China,Shanghai,2018-05-09,620,6,6,Bachelor's,4
+E04969,"Abigail Vang","Operations Engineer",Engineering,"Research & Development",Female,Asian,40,2016-09-09,"$109,680 ",0,China,Chengdu,NULL,721,9,4,Bachelor's,2
+E00955,"Theodore Marquez","Development Engineer",Engineering,"Speciality Products",Male,Latino,54,2012-11-24,"$94,407 ",0,Brazil,"Sao Paulo",NULL,858,9,2,Bachelor's,4
+E00023,"Gabriel Joseph",Director,Engineering,Manufacturing,Male,Caucasian,52,2006-10-28,"$187,992 ",0.28,"United States",Miami,NULL,161,6,14,Bachelor's,3
+E04683,"Ezekiel Delgado",Director,Engineering,"Speciality Products",Male,Latino,40,2020-02-07,"$187,187 ",0.18,Brazil,Manaus,NULL,988,5,0,Bachelor's,0
+E03834,"Anthony Carter",Director,Engineering,"Speciality Products",Male,Caucasian,41,2007-03-15,"$155,926 ",0.24,"United States",Columbus,2008-05-30,506,10,8,Bachelor's,0
+E04484,"Vivian Thao","Quality Engineer",Engineering,"Research & Development",Female,Asian,45,2015-04-23,"$60,017 ",0,"United States",Chicago,NULL,97,8,15,Bachelor's,4
+E04926,"Emma Luna","Field Engineer",Engineering,"Speciality Products",Female,Latino,52,2008-03-25,"$97,398 ",0,Brazil,Manaus,NULL,859,5,2,Bachelor's,4
+E02276,"Hazel Griffin","Field Engineer",Engineering,Corporate,Female,Caucasian,32,2015-11-09,"$65,247 ",0,"United States",Phoenix,NULL,98,8,15,Bachelor's,0
+E02649,"Charles Gonzalez","Quality Engineer",Engineering,"Research & Development",Male,Latino,27,2018-09-28,"$64,247 ",0,Brazil,"Rio de Janerio",NULL,861,10,2,Bachelor's,0
+E01706,"Avery Sun","Operations Engineer",Engineering,Manufacturing,Female,Asian,45,2004-03-11,"$109,422 ",0,China,Chongqing,NULL,343,6,11,PhD,2
+E03994,"Henry Jung","Automation Engineer",Engineering,Manufacturing,Male,Asian,57,2018-02-26,"$103,183 ",0,"United States",Austin,2021-07-09,508,5,8,PhD,2
+E00608,"Anna Han","Development Engineer",Engineering,Manufacturing,Female,Asian,29,2019-11-09,"$75,012 ",0,"United States",Chicago,NULL,783,7,3,Master's,3
+E00667,"Skylar Shah","Field Engineer",Engineering,Manufacturing,Female,Asian,42,2012-04-27,"$72,903 ",0,"United States",Phoenix,NULL,992,9,0,Bachelor's,4
+E02024,"Addison Perez","Operations Engineer",Engineering,"Speciality Products",Female,Latino,29,2020-09-25,"$123,588 ",0,Brazil,"Sao Paulo",NULL,452,6,9,Bachelor's,3
+E02024,"Addison Perez","Operations Engineer",Engineering,"Speciality Products",Female,Latino,29,2020-09-25,"$123,588 ",0,Brazil,"Sao Paulo",NULL,342,6,11,Bachelor's,2
+E01508,"Penelope Rodriguez","Engineering Manager",Engineering,Manufacturing,Female,Latino,49,2016-03-12,"$100,810 ",0.12,Brazil,"Rio de Janerio",NULL,346,6,11,Master's,4
+E00371,"Melody Grant","Quality Engineer",Engineering,Corporate,Female,Caucasian,41,2005-10-07,"$79,352 ",0,"United States",Seattle,NULL,789,6,3,Bachelor's,2
+E04369,"Santiago f Gray","Quality Engineer",Engineering,Corporate,Male,Caucasian,27,2018-09-11,"$80,745 ",0,"United States",Chicago,NULL,103,7,15,Bachelor's,0
+E03532,"Jaxson Santiago","Engineering Manager",Engineering,"Research & Development",Male,Latino,56,2018-09-20,"$78,938 ",0.14,"United States",Phoenix,NULL,624,6,6,Bachelor's,2
+E00863,"Lincoln Ramos","Operations Engineer",Engineering,Corporate,Male,Latino,59,2008-09-10,"$96,313 ",0,"United States",Austin,NULL,348,10,11,Bachelor's,0
+E03310,"Dylan Campbell",Director,Engineering,"Speciality Products",Male,Caucasian,45,2010-11-29,"$153,767 ",0.27,"United States",Phoenix,NULL,867,6,2,Bachelor's,4
+E01242,"Emery Doan","Controls Engineer",Engineering,Corporate,Female,Asian,25,2021-06-23,"$86,464 ",0,China,Shanghai,NULL,296,10,12,Bachelor's,0
+E02535,"Caroline Perez","Controls Engineer",Engineering,Corporate,Female,Latino,29,2018-01-14,"$80,516 ",0,Brazil,"Sao Paulo",NULL,398,7,10,Bachelor's,4
+E04751,"Grayson James","Operations Engineer",Engineering,"Speciality Products",Male,Caucasian,54,2010-12-05,"$113,982 ",0,"United States",Seattle,NULL,349,9,11,Bachelor's,0
+E00952,"Jaxon Powell","Field Engineer",Engineering,"Research & Development",Male,Caucasian,59,1996-03-29,"$62,605 ",0,"United States",Austin,NULL,630,6,6,Bachelor's,1
+E00952,"Jaxon Powell","Field Engineer",Engineering,"Research & Development",Male,Caucasian,59,1996-03-29,"$62,605 ",0,"United States",Austin,NULL,454,5,9,Bachelor's,4
+E04464,"Cooper Yoon","Engineering Manager",Engineering,"Research & Development",Male,Asian,60,2018-02-15,"$106,079 ",0.14,"United States",Austin,2021-04-09,399,5,10,PhD,3
+E01684,"Jaxson Liang","Field Engineer",Engineering,Manufacturing,Male,Asian,64,2019-03-03,"$67,114 ",0,"United States",Phoenix,NULL,793,8,3,Master's,2
+E02563,"Clara Sanchez","Controls Engineer",Engineering,Corporate,Female,Latino,47,2018-10-02,"$111,404 ",0,Brazil,"Rio de Janerio",NULL,982,5,0,Master's,2
+E02563,"Clara Sanchez","Controls Engineer",Engineering,Corporate,Female,Latino,47,2018-10-02,"$111,404 ",0,Brazil,"Rio de Janerio",NULL,872,9,2,Bachelor's,4
+E02710,"Silas Huang","Engineering Manager",Engineering,"Research & Development",Male,Asian,57,1992-01-09,"$111,299 ",0.12,"United States",Miami,NULL,301,7,12,Master's,0
+E03457,"Ivy Desai","Controls Engineer",Engineering,"Research & Development",Female,Asian,59,2001-04-09,"$119,699 ",0,China,Shanghai,NULL,353,10,11,Master's,2
+E04163,"David Herrera","Engineering Manager",Engineering,"Speciality Products",Male,Latino,32,2021-10-09,"$102,298 ",0.13,Brazil,"Rio de Janerio",NULL,997,10,0,Bachelor's,0
+E02696,"Ryan Lu","Development Engineer",Engineering,"Speciality Products",Male,Asian,25,2021-07-08,"$67,275 ",0,"United States",Columbus,NULL,355,9,11,Bachelor's,2
+E00956,"Eleanor Chau","Development Engineer",Engineering,"Research & Development",Female,Asian,37,2020-03-08,"$80,659 ",0,"United States",Phoenix,NULL,877,6,2,Bachelor's,0
+E02661,"Maya Chan","Controls Engineer",Engineering,"Speciality Products",Female,Asian,37,2013-02-13,"$124,827 ",0,China,Beijing,NULL,878,9,2,Master's,2
+E04032,"Emery Zhang","Field Engineer",Engineering,Corporate,Female,Asian,45,2012-02-28,"$89,659 ",0,China,Beijing,NULL,459,8,9,Bachelor's,1
+E05656,"Eddy Gordo","Quality Engineer",Engineering,"Research & Development",Male,Latino,41,2005-12-30,"$94120 ",0,Brazil,Manaus,2009-03-23,1004,3,11,Bachelor's,0
